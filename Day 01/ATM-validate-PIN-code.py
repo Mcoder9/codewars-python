@@ -14,3 +14,8 @@ def validate_pin(PIN):
 '''Best Solution'''
 def validate_pin(pin):
     return len(pin) in (4, 6) and pin.isdigit()
+
+
+    
+
+
